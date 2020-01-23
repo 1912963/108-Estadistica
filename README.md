@@ -10,5 +10,5 @@ Lista de actividades del curso.
 + Actualizamos nuestros repositorios vía versión control (*Git*)
 
 + paperclipclase 2: 23.01.20
-
++ primera tarea
 
