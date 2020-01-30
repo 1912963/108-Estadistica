@@ -9,9 +9,10 @@ a<-2
 a+5
 a+a^2
 log(a)
-#Ingresar codigo de datos 
 
-peso<- c(70, 62, 52, 90, 38, 52, 50, 70, 65,
+#Ingresar conjunto de datos 
+
+peso<- c(70, 62, 52, 90, 38, 53, 50, 56, 70, 65,
          76, 70, 72)
 peso
 
@@ -29,17 +30,18 @@ peso
 
  mean(peso)
  median(peso)
+ 
  sd(peso) 
  var(peso) 
 
  fivenum(peso)
  range(peso)
 
-# gráfica -----------------------------------------------------------------
+# Gráfica -----------------------------------------------------------------
 
  boxplot(peso)
  
  boxplot(peso, col = "pink", ylab= "peso (kg)",
-         main="peso alumnos tomado el 29.01.2020")
+         main= "peso alumnos tomado el 29.01.2020")
          
          
