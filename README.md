@@ -15,7 +15,17 @@ Lista de actividades del curso.
 + La fecha de entrega será el día 28.01 alas 23 horas
 
 + Clase 3: 29.01..2020
-+ Instalar paqueteria para R
-+ Más
 
++ Instalar paqueteria para R
++ Estadística descriptiva
++ Compilar script en formato pdf
++ Actualizar GitHub
+ 
+ + paperclip: Clase 4:30.01.2020("script 2")
+ 
+ + Importar base de datos de excel en formato.csv
+ + utilizar el comando read.csv
+ 
+ 
+ 
 
