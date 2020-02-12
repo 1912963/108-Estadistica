@@ -6,4 +6,4 @@ La interpretación se puede observar en la siguiente imagen:
 
 
 ![Interpretación][123]
-[123]:WhatsApp Image 2020-02-12 at 8.52.54 AM.jpeg 
+[123]:WhatsApp Image 2020-02-12 at 8.52.54 AM 
