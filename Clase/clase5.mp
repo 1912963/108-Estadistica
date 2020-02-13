@@ -5,5 +5,11 @@ En cada prueba se establece un valor de alfa de 0.05.
 La interpretación se puede observar en la siguiente imagen:
 
 
-![Interpretación][123]
-[123]:WhatsApp Image 2020-02-12 at 8.52.54 AM 
+
+
+![imagen.png][imagen]
+
+
+
+
+[imagen.png]:imagen
