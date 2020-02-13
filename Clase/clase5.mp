@@ -7,8 +7,7 @@ La interpretación se puede observar en la siguiente imagen:
 
 
 
-![imagen.png][imagen]
-
+![imagen.png][imagen
 
 
 
